@@ -1,4 +1,4 @@
 # eco
 trbc calculation
 
-Requiement: Intel MKL, gdal
+Requirement: Intel MKL, gdal
